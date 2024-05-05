@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_blue">#5B9EE1</color>
+    <!--    <color name="light_blue">#0288D1</color>-->
+    <color name="dark_blue">#1A2530</color>
+    <color name="test_btn_color">#EDF2F6</color>
+    <color name="brand_color_first">#F8F9FA</color>
+    <color name="ripple_effect_color">#E0E0E0</color>
+    <color name="fab_background">#5B9EE1</color>
+    <color name="default_color_answer">#0192E1</color>
+    <color name="selected_color_answer">#FFFFC107</color>
+    <color name="correct_answer">#33FF52</color>
+    <color name="uncorrect_answer">#E50000</color>
+    <color name="illustration_color_fourth">#F7CD53</color>
+    <color name="color_grey">#E0E0E0</color>
+</resources>
